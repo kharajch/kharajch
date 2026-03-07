@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! I'm Kharaj Chakraborty, a passionate Full Stack Developer and a Computer Science student at APC Roy Government College.
 
-I love building scalable web applications and exploring the depths of Computer Science. When I'm not coding, you can usually find me connecting with new people or creating content for my meme edit channel, [kharajch.editzz](https://www.youtube.com/@kharajch.editzz).
+I love building scalable web applications and exploring the depths of Computer Science.
 ### Visit My Portfolio - [https://kharajch.vercel.app](https://kharajch.vercel.app "Kharaj Chakraborty---Portfolio")
 
 
