@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Full%20Stack-blueviolet?style=for-the-badge" alt="Specialization" />
 </p>
 
-Hi there! I'm **Kharaj Chakraborty**, a passionate **AI-Powered Full Stack Enthusiast** and a **Computer Science** student at APC Roy Government College. 
+Hi there! I'm **Kharaj Chakraborty**, a passionate **AI Full-Stack Enthusiast** and a **Computer Science** student at APC Roy Government College. 
 
 I love design-driven development, building scalable web applications, and exploring the depths of Computer Science & Artificial Intelligence. From crafting pixel-perfect UIs with premium micro-interactions to architecting robust backend systems and autonomous AI agentic workflows, I enjoy every aspect of the engineering process.
 
@@ -31,39 +31,13 @@ I love design-driven development, building scalable web applications, and explor
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some of the key projects I have built, showcasing my expertise in Full Stack Development and AI integrations:
-
-### 🏥 [PsychiatryXDashboard](https://github.com/kharajch/PsychiatryXDashboard)
-*A premium, real-time clinical dashboard designed for mental health professionals to track patient progress, manage treatment schedules, and analyze therapeutic data.*
-- **Tech Stack:** Next.js, React, CSS Modules, Google Stitch, Antigravity CLI, Gemini CLI
-- **Key Features:** Real-time data visualization, patient treatment schedule management, premium visual interactions.
-
-### 💻 [IdeaXCoder](https://github.com/kharajch/IdeaXCoder)
-*A sophisticated agentic AI coding interface designed to transform abstract project ideas into structured technical specifications and interactive visual screens.*
-- **Tech Stack:** Next.js, LangChain, React, Antigravity CLI
-- **Key Features:** Conversational project planning, automated visual UI generation, screen variant editing.
-
-### 💬 [ChatX](https://github.com/kharajch/ChatX)
-*A premium, AI-powered chatbot application that combines a local Ollama integration and cloud LLMs with a sleek, responsive UI to deliver intelligent conversations.*
-- **Tech Stack:** React, Next.js, Ollama, LangChain, CSS
-- **Key Features:** Native offline model support, smart context switching, clean glassmorphic chat interface.
-
-### 🔍 [WebXResearch](https://github.com/kharajch/WebXResearch)
-*A smart research assistant that fetches content from any link, creates beautifully structured summaries, and opens an AI chat to query the document context.*
-- **Tech Stack:** React, Next.js, FastAPI, Python
-- **Key Features:** Real-time web scraping, multi-document summarization, conversational search.
-
----
-
 ## 🎓 Education & Journey
 
-- 🎓 **B.Sc. in Computer Science** - APC Roy Government College (2025 - 2026)
+- 🎓 **B.Sc. in Computer Science** - APC Roy Government College (2025 - Present)
   - Focus: Computational theory, software design, and language fundamentals.
 - 🧑‍💻 **Full Stack AI Developer** - Open Source & Freelance (2025 - Present)
   - Focus: Constructing advanced AI-powered web applications and agentic workflows.
-- 🏫 **Pre-College Schooling** - Mathabhanga High School (2022 - 2025)
+- 🏫 **Pre-College Schooling** - Mathabhanga High School (2017 - 2025)
   - Focus: Science & Mathematics.
 
 ---
@@ -74,10 +48,6 @@ A showcase of my continuous learning and verified expertise in modern technology
 
 - 🏅 **Google Prompting Essentials Specialization** (Google | Jun 2026) - *Credential ID: R5BQFJZQNGX1*
 - 🏅 **Google AI Essentials Specialization** (Google | May 2026) - *Credential ID: W5759QXSBCX9*
-- 🏅 **Introduction to DevOps** (Microsoft | May 2026) - *Credential ID: JH3744LT*
-- 🏅 **Machine Learning Operations (MLOps): Getting Started** (Google Cloud | May 2026) - *Credential ID: 25085822*
-- 🏅 **Machine Learning Operations (MLOps) for Generative AI** (Google Cloud | May 2026) - *Credential ID: 24407934*
-- 🏅 **Automate DevOps processes by using GitHub Apps** (Microsoft Learn | May 2026) - *Credential ID: Y4ENND9R*
 
 ---
 
@@ -116,18 +86,3 @@ A showcase of my continuous learning and verified expertise in modern technology
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/openai-codex/) [![Gemini Code Assist](https://img.shields.io/badge/Gemini%20Code%20Assist-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://cloud.google.com/gemini/docs/codeassist) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot) [![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google/)
 
 ---
-
-## 📝 Recent Articles
-
-I occasionally write about frontend architecture, AI systems, and modern database patterns:
-
-- 📰 **The Rise of Agentic AI in Modern Web Development** (June 15, 2026) - *Exploring autonomous orchestrations in software planning.*
-- 📰 **Building Offline-First React Apps with RxDB** (June 08, 2026) - *Delivering resilient offline sync database pipelines.*
-- 📰 **Mastering Scroll-Linked Animations with GSAP** (June 01, 2026) - *Performance considerations for modern high-end UX design.*
-o=google&logoColor=white)](https://antigravity.google/)
-=google&logoColor=white)](https://antigravity.google/)
-=google&logoColor=white)](https://antigravity.google/)
-=google&logoColor=white)](https://antigravity.google/)
-=google&logoColor=white)](https://antigravity.google/)
-=google&logoColor=white)](https://antigravity.google/)
-o=google&logoColor=white)](https://antigravity.google/)
