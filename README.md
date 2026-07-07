@@ -46,8 +46,17 @@ I love design-driven development, building scalable web applications, and explor
 
 A showcase of my continuous learning and verified expertise in modern technology fields:
 
-- 🏅 **Google Prompting Essentials Specialization** (Google | Jun 2026) - *Credential ID: R5BQFJZQNGX1*
-- 🏅 **Google AI Essentials Specialization** (Google | May 2026) - *Credential ID: W5759QXSBCX9*
+- 🏅 **[Google Prompting Essentials Specialization](https://coursera.org/share/553fc7b016ce1207f6e539b912c62645)** (Google | Jun 2026) - *Credential ID: [R5BQFJZQNGX1](https://coursera.org/share/553fc7b016ce1207f6e539b912c62645)*
+- 🏅 **[Google AI Essentials Specialization](https://coursera.org/share/2c98c6a35c1a75d5b145f12c8745b94f)** (Google | May 2026) - *Credential ID: [W5759QXSBCX9](https://coursera.org/share/2c98c6a35c1a75d5b145f12c8745b94f)*
+
+<p align="left">
+  <a href="https://www.credly.com/badges/8d8885b7-03f5-40b1-98a3-8530c8c4d41b/public_url" target="_blank">
+    <img src="https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/linkedin_thumb_blob" width="110" alt="Google Prompting Essentials Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/e31a41a8-5842-4b27-998e-fa7ae1750111/public_url" target="_blank">
+    <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/linkedin_thumb_image.png" width="110" alt="Google AI Essentials Badge" />
+  </a>
+</p>
 
 ---
 
