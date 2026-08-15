@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Full%20Stack-blueviolet?style=for-the-badge" alt="Specialization" />
 </p>
 
-Hi there! I'm **Kharaj Chakraborty**, a passionate **AI Full-Stack Enthusiast** and a **Computer Science** student at APC Roy Government College. 
+Hi there! I'm **Kharaj Chakraborty**, a **Computer Science** student at APC Roy Government College. 
 
-I love design-driven development, building scalable web applications, and exploring the depths of Computer Science & Artificial Intelligence. From crafting pixel-perfect UIs with premium micro-interactions to architecting robust backend systems and autonomous AI agentic workflows, I enjoy every aspect of the engineering process.
+I love exploring the depths of Computer Science & Artificial Intelligence.
 
 <p align="center">
   <a href="https://www.credly.com/badges/8d8885b7-03f5-40b1-98a3-8530c8c4d41b/public_url" target="_blank">
