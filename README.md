@@ -44,8 +44,6 @@ I love exploring the depths of Computer Science & Artificial Intelligence.
 
 - 🎓 **B.Sc. in Computer Science** - APC Roy Government College (2025 - Present)
   - Focus: Computational theory, software design, and language fundamentals.
-- 🧑‍💻 **Full Stack AI Developer** - Open Source & Freelance (2025 - Present)
-  - Focus: Constructing advanced AI-powered web applications and agentic workflows.
 - 🏫 **Pre-College Schooling** - Mathabhanga High School (2017 - 2025)
   - Focus: Science & Mathematics.
 
